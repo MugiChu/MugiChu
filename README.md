@@ -1,7 +1,7 @@
 ### Hi there, I'm Artyom Bystryukov - MugiChu/391753t
 ## Welcome again
 
-## Python Developer!
+## I'm Python Developer!
 
 - I am currently interested in developing DS applications and analytics applications.
 - Web services, Analytics, REST API, sites based on Python frameworks.
