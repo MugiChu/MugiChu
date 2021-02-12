@@ -1,4 +1,5 @@
 ### Hi there, I'm Artyom Bystryukov - MugiChu/391753t
+## Welcome again
 
 ## Python Developer!
 
@@ -20,6 +21,6 @@
 
 ---
 
-<i>With love,<br>Artyom Bystryukov</i>
+<i>With love,<br>391753t</i>
 
 Copyright © 2021 Artyom Bystryukov. All rights reserved.
