@@ -20,6 +20,6 @@
 
 ---
 
-<i>With respect and love,<br>Artyom Bystryukov</i>
+<i>With love,<br>Artyom Bystryukov</i>
 
 Copyright © 2021 Artyom Bystryukov. All rights reserved.
