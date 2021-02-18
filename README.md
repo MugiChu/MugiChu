@@ -16,7 +16,7 @@
   <img align="center" alt="MugiChu Github Stats"src="https://github-readme-stats.vercel.app/api?username=MugiChu&show_icons=true&theme=dark" />
 </a>
 <a href="https://github.com/MugiChu">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MugiChu&langs_count=8&layout=compact&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MugiChu&langs_count=8&layout=compact&theme=tokio" />
 </a>
 
 ---
